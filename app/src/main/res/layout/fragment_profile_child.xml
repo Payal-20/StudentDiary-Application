@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/childProfileLayout"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/displayChildProfileLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgChildProfile"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:adjustViewBounds="true"
+                    android:gravity="center"
+                    android:scaleType="fitCenter"
+                    android:src="@mipmap/ic_launcher" />
+
+                <TextView
+                    android:id="@+id/txtChildProfileName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="8dp"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="@string/hint_name"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <androidx.cardview.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                    style="@style/CardViewStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="2dp"
+                    android:layout_marginLeft="@dimen/card_margin_horizontal"
+                    android:layout_marginRight="@dimen/card_margin_horizontal"
+                    android:elevation="3dp"
+                    card_view:cardCornerRadius="@dimen/card_album_radius">
+
+                    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:gravity="left"
+                            android:text="Date Of Birth"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtChildProfileDOB"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:gravity="left"
+                            android:text="DOB" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:layout_marginTop="5dp"
+                            android:gravity="left"
+                            android:text="Gender"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/txtChildProfileGender"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:gravity="left"
+                            android:text="Male" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:layout_marginTop="5dp"
+                            android:gravity="left"
+                            android:text="Blood Group"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtChildBloodGroup"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:gravity="left"
+                            android:text="B+" />
+
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:layout_marginTop="5dp"
+                            android:gravity="left"
+                            android:text="Emergency Phone"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtChildProfileEmergencyPhone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:gravity="left"
+                            android:text="44444444444" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:layout_marginTop="5dp"
+                            android:gravity="left"
+                            android:text="Address"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtChildProfileAddress"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_horizontal"
+                            android:gravity="left"
+                            android:text="Oune" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!--<Button-->
+                <!--android:id="@+id/editChildProfileButton"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/btn_edit"-->
+                <!--android:background="@color/colorPrimary"-->
+                <!--android:textColor="@android:color/white"-->
+                <!--android:layout_gravity="center_horizontal"-->
+                <!--android:layout_centerInParent="true"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:gravity="center" />-->
+            </LinearLayout>
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/editChildProfileLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/displayChildProfileLayout"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileFirstNameText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="First Name"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileMiddleNameText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Middle_name"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileLastNameText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Last name"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileDOBText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="false"
+                        android:hint="Date Of Birth"
+                        android:inputType="none" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    style="@style/InputLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gender" />
+
+                <Spinner
+                    android:id="@+id/childProfileGenderSpinner"
+                    style="@android:style/Widget.Holo.Light.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginBottom="8dp"
+                    android:background="@drawable/spinner_background"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="8dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="8dp"
+                    android:spinnerMode="dropdown" />
+
+                <TextView
+                    style="@style/InputLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Blood_group" />
+
+                <Spinner
+                    android:id="@+id/childProfileBloodgroupSpinner"
+                    style="@android:style/Widget.Holo.Light.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginBottom="8dp"
+                    android:background="@drawable/spinner_background"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="8dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="8dp"
+                    android:spinnerMode="dropdown"></Spinner>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileEmergencyPhoneText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Emergency phone"
+                        android:inputType="number" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileStreetAddressText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Address"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfileCityText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="City"
+                        android:inputType="text" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical">
+
+                    <EditText
+                        android:id="@+id/childProfilePincodeText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Pincode"
+                        android:inputType="number" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    style="@style/InputLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="State" />
+
+                <Spinner
+                    android:id="@+id/childProfileStateSpinner"
+                    style="@android:style/Widget.Holo.Light.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:background="@drawable/spinner_background"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="8dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="8dp"
+                    android:spinnerMode="dropdown" />
+
+                <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="15dp"
+                    android:orientation="vertical">
+
+                    <TableRow>
+
+                        <Button
+                            android:id="@+id/updateChildProfileButton"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:layout_gravity="center_horizontal"
+                            android:background="@color/colorPrimary"
+                            android:gravity="center"
+                            android:text="Update"
+                            android:textColor="@android:color/white" />
+
+                        <Button
+                            android:id="@+id/cancelEditChildProfileButton"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginLeft="10dp"
+                            android:background="@color/colorPrimary"
+                            android:gravity="center"
+                            android:text="Cancel"
+                            android:textColor="@android:color/white" />
+                    </TableRow>
+                </TableLayout>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/editChildProfileButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="@dimen/fab_margin"
+
+            android:src="@drawable/ic_baseline_edit_24" />
+
+    </LinearLayout>
+
+</RelativeLayout >

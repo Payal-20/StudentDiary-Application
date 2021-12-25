@@ -1,0 +1,147 @@
+[
+  {
+    "exam_id": "1",
+    "question_type": "fill_in_blank",
+    "question": "what is Php ewncdncencennl ncenknckne ejfjejewjhefwof dnkdwdjpjdoe keioeshfffff wwwww fffffffffffwhat is Php ewncdncencennl ncenknckne ejfjejewjhefwof what is Php ewncdncencennl ncenknckne ejfjejewjhefwof what is bhbbbbb bbbbbbbbb bbb bbbbbb bbbbbbb bbbbjjjjjjjj jjjjjjjjn nnnn nnnnnnnn nnnnnnnnn nn is Php ennl ncenknckne ejfjejewjhefwof w",
+
+
+    "options": "",
+    "options_label": "A"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "multiple_radiobutton",
+    "question": "what is android",
+    "options": [
+      {
+        "option_name":"A", "options": "I am option first"
+      },
+      {
+        "option_name":"B","options": "I am option second"
+      },
+      {
+        "option_name":"C", "options": "I am option third"
+      },
+      {
+        "option_name":"D", "options": "I am option fourth"
+      }
+    ],
+    "options_label": "A"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "multiple_correct",
+    "question": "what is android",
+    "options": [
+      {
+        "option_name":"A", "options": "I am option first"
+      },
+      {
+        "option_name":"B","options": "I am option second"
+      },
+      {
+        "option_name":"C", "options": "I am option third"
+      },
+      {
+        "option_name":"D", "options": "I am option fourth"
+      }
+    ],
+    "options_label": "A"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "essay_evaluated_by_admin",
+    "question": "what is Life"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "true_or_false",
+    "question": "Are you good person",
+    "options": [
+      {
+      "option_name":"A", "options":"True"},
+  {"option_name":"B", "options":"False"}
+    ],
+    "options_label": "A"
+  },
+
+  {
+    "exam_id": "1",
+    "question_type": "yes_or_no",
+    "question": "Are you ok",
+    "options": [
+      {
+        "option_name":"A", "options":"Yes"},
+      {"option_name":"B", "options":"No"}
+    ],
+    "options_label": "A"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "Matching",
+    "question": "Match the following pair",
+    "options": [
+      {
+        "option_name":"A",
+        "options":"india and pakistan"
+      },
+      {
+        "option_name":"B",
+        "options":"Austrilia"
+      },
+      {
+        "option_name":"C",
+        "options":"Germany"
+      },
+      {
+        "option_name":"D",
+        "options":"England"
+      }
+    ],
+    "options_label": "A"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "drag_and_match",
+    "question": "",
+    "options": [
+      {
+        "option_name":"A",
+        "options":"dada\n"
+      },
+      {
+        "option_name":"B",
+        "options":"ada\n"
+      },
+      {
+        "option_name":"C",
+        "options":""
+      },
+      {
+        "option_name":"D",
+        "options":""
+      }
+    ],
+    "options_label": "A"
+  },
+  {
+    "exam_id": "1",
+    "question_type": "multiple_dropdown",
+    "question": "hello Brother",
+    "options": [
+      {
+        "option_name":"A", "options": "I option first"
+      },
+      {
+        "option_name":"B","options": "I am option second"
+      },
+      {
+        "option_name":"C", "options": "I am option third"
+      },
+      {
+        "option_name":"D", "options": "I am option fourth"
+      }
+    ],
+    "options_label": "A"
+  }
+]

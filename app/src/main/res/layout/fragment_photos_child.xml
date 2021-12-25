@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/uploadChildPhotoCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/card_margin"
+        android:elevation="3dp"
+        android:layout_marginLeft="@dimen/card_margin_horizontal"
+        android:layout_marginRight="@dimen/card_margin_horizontal"
+        app:cardCornerRadius="@dimen/card_album_radius"
+        style="@style/CardViewStyle">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="photo type"
+                style="@style/InputLabel" />
+            <Spinner
+                android:id="@+id/childPhotoTypeSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/spinner_background"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:layout_marginBottom="8dp"
+                style="@android:style/Widget.Holo.Light.Spinner"
+                android:spinnerMode="dropdown"/>
+
+            <EditText
+                android:id="@+id/childUploadPhoto"
+                android:hint="select photo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:inputType="none"
+                android:focusable="false"
+                android:layout_gravity="left"
+                android:gravity="left"
+                android:layout_marginBottom="2dp"
+                android:layout_below="@+id/childPhotoTypeSpinner"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/childPhotosRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/uploadChildPhotoCardView"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:clipToPadding="false"
+                android:scrollbars="vertical"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+            <TextView
+                android:id="@+id/childPhotoInstructions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textColor="@android:color/holo_red_light"
+                android:layout_marginBottom="15dp"
+                android:layout_gravity="left|center_horizontal"
+                android:gravity="left"
+                android:layout_below="@+id/childUploadPhoto"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_below="@+id/childPhotoInstructions">
+
+                <Button
+                    android:id="@+id/uploadChildPhotoButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="upload"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/white"
+                    android:layout_gravity="center"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:layout_marginBottom="8dp" />
+
+                <Button
+                    android:id="@+id/cancelEditChildPhotoButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="cancel"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/white"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="10dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/childPhotoNotAvailable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        android:gravity="center"
+        android:text="No photo(s) available."/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/editChildPhotoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/floating_button_margin"
+        android:src="@drawable/ic_baseline_edit_24" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

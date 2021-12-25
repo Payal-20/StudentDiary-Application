@@ -1,0 +1,47 @@
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:background="@color/colorPrimaryLight"
+    tools:ignore="MissingConstraints">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar1"
+        android:layout_width="match_parent"
+        android:foregroundGravity="center"
+        android:layout_gravity="center"
+        android:layout_height="?attr/actionBarSize"
+        android:backgroundTint="@color/purple_700"
+        android:elevation="4dp"
+
+        android:theme="@style/Theme.AppCompat.Light"
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Exam Name Tittle"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_apps_24"
+            android:layout_gravity="right"
+            android:id="@+id/btnmenuclick"
+            android:backgroundTint="@color/white"
+            android:layout_marginRight="16dp">
+
+        </ImageView>
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+</com.google.android.material.appbar.AppBarLayout>

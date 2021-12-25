@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_label_Match_the_pair"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="A"
+                android:padding="8dp"
+                android:textStyle="bold"
+                android:textColor="@color/black" />
+
+
+
+            <TextView
+                android:id="@+id/tv_options_math_the_pair"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="options"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center"
+                android:background="@color/Gray" />
+            <TextView
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:padding="4dp"
+                android:id="@+id/spinertextView"
+                android:hint="select"
+                />
+
+            <Spinner
+                android:id="@+id/spinner_match_the_pair"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:focusedByDefault="false"
+                android:gravity="end"
+                android:drawSelectorOnTop="true"
+                 />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

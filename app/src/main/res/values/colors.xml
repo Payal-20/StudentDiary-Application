@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3700B3</color>
+    <color name="colorPrimaryDark">#2B018A</color>
+    <color name="colorPrimaryLight">#4401DA</color>
+    <color name="colorAccent">#212121</color>
+    <color name="colorIcon">#59E0D4</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+
+    <color name="colorSnackbar">#D32F2F</color>
+
+
+    <color name="colorGreen">#26c857</color>
+    <color name="lightBlack">#777676</color>
+
+    <color name="purple_200">#40C552</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="blue">#8B99E4</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="pink">#F44336</color>
+    <color name="black">#FF000000</color>
+    <color name="lightyellow">#FCFF91</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="Gray">#E7E4E4</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorGrey">#CCCCCC</color>
+    <color name="colorGreyLight1">#EEEEEE</color>
+    <color name="colorGreyLight2">#c0c0c0</color>
+    <color name="colorDarkenGrey1">#C8C8C8</color>
+    <color name="colorDarkenGrey2">#616161</color>
+    <color name="colorDarkenGrey3">#424242</color>
+    <color name="colorDarkenGrey4">#212121</color>
+
+
+</resources>
