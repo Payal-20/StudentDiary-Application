@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/activity_splash.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/activity_test_mainpage.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/app_bar_main.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/bootamsheet.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/calenderdilogbox.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/circletextview.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/dilogbox_layout.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/dragandmatch.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/finishcardview.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/flltersheet.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/fragment_easy.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/header_main.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/item_main.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/layoutcustom.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/matchthepaircardview.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/menu/menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -66,7 +66,7 @@ public class DbHelper extends SQLiteOpenHelper {
                 + Is_Finish_key + " INTEGER DEFAULT 0 )";
         Db.execSQL(query);
         Db.execSQL(query1);
-        isTableExists(TABLE_NAME2);
+//        isTableExists(TABLE_NAME2);
 
     }
 
@@ -91,19 +91,19 @@ public class DbHelper extends SQLiteOpenHelper {
         }
     }
 
-
-    public boolean isTableExists(String tableName) {
-        boolean isExist = false;
-        SQLiteDatabase Db = this.getWritableDatabase();
-        Cursor cursor = Db.rawQuery("select DISTINCT tbl_name from sqlite_master where tbl_name = '" + TABLE_NAME2 + "'", null);
-        if (cursor != null) {
-            if (cursor.getCount() > 0) {
-                isExist = true;
-            }
-            cursor.close();
-        }
-        return isExist;
-    }
+//
+//    public boolean isTableExists(String tableName) {
+//        boolean isExist = false;
+//        SQLiteDatabase Db = this.getWritableDatabase();
+//        Cursor cursor = Db.rawQuery("select DISTINCT tbl_name from sqlite_master where tbl_name = '" + TABLE_NAME2 + "'", null);
+//        if (cursor != null) {
+//            if (cursor.getCount() > 0) {
+//                isExist = true;
+//            }
+//            cursor.close();
+//        }
+//        return isExist;
+//    }
 //
 //    public void deleteAll11() {
 //        SQLiteDatabase Db = this.getWritableDatabase();

@@ -172,15 +172,13 @@ public class DocumentAdapter  extends RecyclerView.Adapter<DocumentAdapter.Docum
                                     data.put("schoolId", "58");
                                     data.put("photoId", documentId);
 
-                                    ApiCallHandler photoHandler = new ApiCallHandler("POST","https://schooladmin.headwaytechies.com/api/students/deletePhoto", context, Constant.RELOAD_CHILD_PHOTO_AFTER_DELETE);
-                                    photoHandler.execute(data.toString());
+//                                    photoHandler.execute(data.toString());
                                 } else if (documentType == Constant.DOCUMENT_TYPE_STUDENT_DOCUMENT) {
                                     data.put("studentId", "1");
                                     data.put("schoolId", "58");
                                     data.put("documentId", documentId);
 
-                                    ApiCallHandler photoHandler = new ApiCallHandler("POST","https://schooladmin.headwaytechies.com/api/students/deleteDocument", context, Constant.RELOAD_CHILD_DOCUMENT_AFTER_DELETE);
-                                    photoHandler.execute(data.toString());
+//                                    photoHandler.execute(data.toString());
                                 }
                             } catch (org.json.JSONException e) {
                                 Utility.showSnackBar(context.getResources().getString(R.string.exception_msg), mainActivity);

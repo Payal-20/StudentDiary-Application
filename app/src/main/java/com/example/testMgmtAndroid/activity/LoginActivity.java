@@ -132,7 +132,7 @@ public class LoginActivity extends AppCompatActivity implements OnApiTaskComplet
     private void gotoUpcoming() {
         Intent dintent = new Intent(context, MainActivity.class);
         Intent intent = getIntent();
-        startActivity(dintent);
+        startActivity(intent);
         finish();
     }
 

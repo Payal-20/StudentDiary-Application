@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pavlospt:roundedletterview:1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e022d0b49c158348bde9f3ea37bf6c98/transformed/jetified-roundedletterview-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e022d0b49c158348bde9f3ea37bf6c98/transformed/jetified-roundedletterview-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e022d0b49c158348bde9f3ea37bf6c98/transformed/jetified-roundedletterview-1.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pavlospt/roundedletterview/1.3/679acb939b4e42afaf3b5f10e5e1c0b5e908352d/roundedletterview-1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pavlospt/roundedletterview/1.3/70366175b763eda8d8301547a9429c1cd0e4acb7/roundedletterview-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

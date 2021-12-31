@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vatsaldesai92:MyDynamicCalendarLibrary:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/888e4e5d45b271810d9a356aa0ad060d/transformed/jetified-MyDynamicCalendarLibrary-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/888e4e5d45b271810d9a356aa0ad060d/transformed/jetified-MyDynamicCalendarLibrary-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/888e4e5d45b271810d9a356aa0ad060d/transformed/jetified-MyDynamicCalendarLibrary-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vatsaldesai92/MyDynamicCalendarLibrary/1.0.1/c4ee732e807b49aa03f6fc9258a4891888d2104a/MyDynamicCalendarLibrary-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vatsaldesai92/MyDynamicCalendarLibrary/1.0.1/9204b24866f8a5f39b1b6b541056fe9754670a81/MyDynamicCalendarLibrary-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

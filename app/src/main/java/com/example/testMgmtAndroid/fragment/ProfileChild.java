@@ -221,7 +221,7 @@ public class ProfileChild extends Fragment  {
                 builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         dialog.dismiss();
-                        updateProfile();
+//                        updateProfile();
                     }
                 });
                 AlertDialog alert = builder.create();
@@ -335,12 +335,12 @@ public class ProfileChild extends Fragment  {
             Utility.showSnackBar("Please enter valid phone number", getActivity());
         }
         Log.e("Blood Group :::", bloodGroup);
-        Log.e("Blood Group :::", getBloodGroupId(bloodGroup));
+//        Log.e("Blood Group :::", getBloodGroupId(bloodGroup));
 
         if (validationSuccessfull == 1) {
             try {
                 JSONObject data = new JSONObject();
-                data.put("schoolId","1" );
+                data.put("schoolId", "1");
                 data.put("studentId", "58");
                 data.put("firstName", firstName);
                 data.put("middleName", middleName);
@@ -352,34 +352,38 @@ public class ProfileChild extends Fragment  {
                 data.put("city", city);
                 data.put("pincode", pincode);
                 data.put("state", state);
-                data.put("bloodGroup", getBloodGroupId(bloodGroup));
-                Log.e("Blood Group :::",""+data);
-                Log.e("Blood Group :::",""+data);
+//                data.put("bloodGroup", getBloodGroupId(bloodGroup));
+                Log.e("Blood Group :::", "" + data);
+                Log.e("Blood Group :::", "" + data);
+            } finally {
+
             }
         }
     }
-
-    public String getBloodGroupId(String blo
-
-
-                ApiCallHandler profileHandler = new ApiCallHandler("POST","https://schooladmin.headwaytechies.com/api/students/updateProfile",view.getContext(),Constant.RELOAD_CHILD_PROFILE_AFTER_UPDATE );
-                profileHandler.execute(data.toString());
-            } catch (org.json.JSONException e) {
-odGroupName) {
-        int length = bloodGroupArray.length();
-        String bloodGroupId = "0";
-        for (int i = 0; i < length; i++) {
-            try {
-                JSONObject bloodGroopDetails = bloodGroupArray.getJSONObject(i);
-                if (bloodGroupName.equals(bloodGroopDetails.getString("blood_group_name"))) {
-                    bloodGroupId = bloodGroopDetails.getString("id");
-                }
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
-        }
-        return bloodGroupId;
-    }
+//
+//    public String getBloodGroupId(String blo){
+//
+//    }
+//
+//
+//                ApiCallHandler profileHandler = new ApiCallHandler("POST","https://schooladmin.headwaytechies.com/api/students/updateProfile",view.getContext(),Constant.RELOAD_CHILD_PROFILE_AFTER_UPDATE );
+//                profileHandler.execute(data.toString());
+//            } catch (org.json.JSONException e) {
+//odGroupName) {
+//        int length = bloodGroupArray.length();
+//        String bloodGroupId = "0";
+//        for (int i = 0; i < length; i++) {
+//            try {
+//                JSONObject bloodGroopDetails = bloodGroupArray.getJSONObject(i);
+//                if (bloodGroupName.equals(bloodGroopDetails.getString("blood_group_name"))) {
+//                    bloodGroupId = bloodGroopDetails.getString("id");
+//                }
+//            } catch (JSONException e) {
+//                e.printStackTrace();
+//            }
+//        }
+//        return bloodGroupId;
+//    }
     public void setData(){
         if (preferences.contains("studentProfile")) {
             try {

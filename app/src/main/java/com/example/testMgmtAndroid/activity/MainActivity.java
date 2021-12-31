@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity implements OnApiTaskComplete
                 if(id == R.id.ExamHistory) {
                     loadFragment(new ExpiredExams());
                 }  else if(id == R.id.MyAccount) {
-                    loadFragment(new MyAccount());
+//                    loadFragment(new MyAccount());
                 }
                 else if(id == R.id.UpcomingExams) {
                     loadFragment(new ExamListFragment());
@@ -129,12 +129,12 @@ public class MainActivity extends AppCompatActivity implements OnApiTaskComplete
                     loadFragment(new Examhistory());
                 }
                 else if(id == R.id.Logout) {
-                    SharedPreferences sharedPreferences = context.getSharedPreferences("user_data", Context.MODE_PRIVATE);
-                    sharedPreferences.edit().clear().commit();
-                    Intent intent = new Intent(MainActivity.this, LoginActivity.class);
-                    startActivity(intent);
-                    finish();
-                    Log.e("MyData"," loggedInUserName ==== " + sharedPreferences);
+//                    SharedPreferences sharedPreferences = context.getSharedPreferences("user_data", Context.MODE_PRIVATE);
+//                    sharedPreferences.edit().clear().commit();
+//                    Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+//                    startActivity(intent);
+//                    finish();
+//                    Log.e("MyData"," loggedInUserName ==== " + sharedPreferences);
                 }
                 drawerLayout.closeDrawer(GravityCompat.START);
                 return true;

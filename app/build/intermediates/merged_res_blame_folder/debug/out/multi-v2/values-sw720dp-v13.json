@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\MiotwebAcer\\AndroidStudioProjects\\testMgmtAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "outputFile": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MiotwebAcer\\.gradle\\caches\\transforms-3\\02545fa7681055e15eb3e70ec7d90f2a\\transformed\\mediarouter-1.2.0\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "source": "C:\\Users\\jnikh\\.gradle\\caches\\transforms-3\\02545fa7681055e15eb3e70ec7d90f2a\\transformed\\mediarouter-1.2.0\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

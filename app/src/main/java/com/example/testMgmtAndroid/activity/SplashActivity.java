@@ -26,42 +26,46 @@ public class SplashActivity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_splash);
+        Intent intent = new Intent(SplashActivity.this, MainActivity.class);
+        startActivity(intent);
+        finish();
 
-        context = this;
-        preferences = getSharedPreferences("user_data", MODE_PRIVATE);
-        JSONObject data = new JSONObject();
-        try {
-            data.put("userType", preferences.getString("loggedInUserType", ""));
-            data.put("userName", preferences.getString("loggedInUserName", ""));
-            data.put("password", preferences.getString("loggedInPassword", ""));
-            data.put("clientid", preferences.getString("loggedInEmployeId", ""));
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
-        if (data.optString("userName").isEmpty()) {
-            new Handler().postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    Intent intent = new Intent(SplashActivity.this, LoginActivity.class);
-                    startActivity(intent);
-                    finish();
-                }
-            }, 2000);
-        }
-        else {
-            new Handler().postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    Intent intent = new Intent(SplashActivity.this, MainActivity.class);
-                    startActivity(intent);
-                    finish();
-                }
-            }, 2000);
-        }
-
-        Log.e("MyData"," loggedInUserName ==== " + data);
-
-
-
+//        context = this;
+//        preferences = getSharedPreferences("user_data", MODE_PRIVATE);
+//        JSONObject data = new JSONObject();
+//        try {
+//            data.put("userType", preferences.getString("loggedInUserType", ""));
+//            data.put("userName", preferences.getString("loggedInUserName", ""));
+//            data.put("password", preferences.getString("loggedInPassword", ""));
+//            data.put("clientid", preferences.getString("loggedInEmployeId", ""));
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+//        if (data.optString("userName").isEmpty()) {
+//            new Handler().postDelayed(new Runnable() {
+//                @Override
+//                public void run() {
+//                    Intent intent = new Intent(SplashActivity.this, MainActivity.class);
+//                    startActivity(intent);
+//                    finish();
+//                }
+//            }, 2000);
+//        }
+//        else {
+//            new Handler().postDelayed(new Runnable() {
+//                @Override
+//                public void run() {
+//                    Intent intent = new Intent(SplashActivity.this, MainActivity.class);
+//                    startActivity(intent);
+//                    finish();
+//                }
+//            }, 2000);
+//        }
+//
+//        Log.e("MyData"," loggedInUserName ==== " + data);
+//
+//
+//
+//    }
     }
 }
