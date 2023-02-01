@@ -4,10 +4,14 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bf6b0b49419d5d6a6bb00f4fd8bb7559/transformed/jetified-circleprogress-1.2.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bf6b0b49419d5d6a6bb00f4fd8bb7559/transformed/jetified-circleprogress-1.2.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bf6b0b49419d5d6a6bb00f4fd8bb7559/transformed/jetified-circleprogress-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4eea40fd0d89c1e9e6994198921eb6c4/transformed/jetified-circleprogress-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4eea40fd0d89c1e9e6994198921eb6c4/transformed/jetified-circleprogress-1.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4eea40fd0d89c1e9e6994198921eb6c4/transformed/jetified-circleprogress-1.2.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lzyzsd/circleprogress/1.2.1/23f33a89c7023e36a7bf2199537ace07c2e98cd2/circleprogress-1.2.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lzyzsd/circleprogress/1.2.1/bd4d0c7e3064ae56dd0aa6d8eabed83532010ea6/circleprogress-1.2.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

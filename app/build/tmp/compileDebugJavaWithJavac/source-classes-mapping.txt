@@ -3,11 +3,12 @@ com/example/testMgmtAndroid/activity/Constant.java
 com/example/testMgmtAndroid/fragment/SingleUploadBroadcastReceiver.java
  com.example.testMgmtAndroid.fragment.SingleUploadBroadcastReceiver
  com.example.testMgmtAndroid.fragment.SingleUploadBroadcastReceiver$Delegate
-com/example/testMgmtAndroid/fragment/PageDetails.java
- com.example.testMgmtAndroid.fragment.PageDetails
- com.example.testMgmtAndroid.fragment.PageDetails$Adapter
-com/example/testMgmtAndroid/helper/FilePath.java
- com.example.testMgmtAndroid.helper.FilePath
+com/example/testMgmtAndroid/helper/DbHelper.java
+ com.example.testMgmtAndroid.helper.DbHelper
+com/example/testMgmtAndroid/activity/MainActivity.java
+ com.example.testMgmtAndroid.activity.MainActivity
+ com.example.testMgmtAndroid.activity.MainActivity$1
+ com.example.testMgmtAndroid.activity.MainActivity$2
 com/example/testMgmtAndroid/fragment/ProfileChild.java
  com.example.testMgmtAndroid.fragment.ProfileChild
  com.example.testMgmtAndroid.fragment.ProfileChild$1
@@ -20,10 +21,15 @@ com/example/testMgmtAndroid/fragment/ProfileChild.java
 com/example/testMgmtAndroid/helper/Utility.java
  com.example.testMgmtAndroid.helper.Utility
  com.example.testMgmtAndroid.helper.Utility$1
-com/example/testMgmtAndroid/adapter/PagerAdapter.java
- com.example.testMgmtAndroid.adapter.PagerAdapter
-com/example/testMgmtAndroid/helper/OnApiTaskCompleted.java
- com.example.testMgmtAndroid.helper.OnApiTaskCompleted
+com/example/testMgmtAndroid/adapter/DocumentAdapter.java
+ com.example.testMgmtAndroid.adapter.DocumentAdapter
+ com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder
+ com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$1
+ com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$2
+ com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$2$1
+ com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$2$2
+com/example/testMgmtAndroid/fragment/RadiobuttonFragment.java
+ com.example.testMgmtAndroid.fragment.RadiobuttonFragment
 com/example/testMgmtAndroid/helper/ApiCallHandler.java
  com.example.testMgmtAndroid.helper.ApiCallHandler
 com/example/testMgmtAndroid/helper/DownloadAndOpenFile.java
@@ -36,39 +42,19 @@ com/example/testMgmtAndroid/adapter/ParentAndChildListAdapter.java
  com.example.testMgmtAndroid.adapter.ParentAndChildListAdapter
 com/example/testMgmtAndroid/fragment/MyDocument.java
  com.example.testMgmtAndroid.fragment.MyDocument
-com/example/testMgmtAndroid/fragment/MultipleCorrect.java
- com.example.testMgmtAndroid.fragment.MultipleCorrect
+com/example/testMgmtAndroid/adapter/ListAdapter.java
+ com.example.testMgmtAndroid.adapter.ListAdapter
+ com.example.testMgmtAndroid.adapter.ListAdapter$1
+ com.example.testMgmtAndroid.adapter.ListAdapter$2
 com/example/testMgmtAndroid/adapter/ListAdapter3.java
  com.example.testMgmtAndroid.adapter.ListAdapter3
-com/example/testMgmtAndroid/helper/DbHelper.java
- com.example.testMgmtAndroid.helper.DbHelper
-com/example/testMgmtAndroid/fragment/EasyFragment.java
- com.example.testMgmtAndroid.fragment.EasyFragment
-com/example/testMgmtAndroid/fragment/ExamInstructionFragment.java
- com.example.testMgmtAndroid.fragment.ExamInstructionFragment
- com.example.testMgmtAndroid.fragment.ExamInstructionFragment$1
- com.example.testMgmtAndroid.fragment.ExamInstructionFragment$2
-com/example/testMgmtAndroid/fragment/RadiobuttonFragment.java
- com.example.testMgmtAndroid.fragment.RadiobuttonFragment
-com/example/testMgmtAndroid/helper/CircleTransform.java
- com.example.testMgmtAndroid.helper.CircleTransform
-com/example/testMgmtAndroid/fragment/MatchThePair.java
- com.example.testMgmtAndroid.fragment.MatchThePair
-com/example/testMgmtAndroid/fragment/ExamListFragment.java
- com.example.testMgmtAndroid.fragment.ExamListFragment
- com.example.testMgmtAndroid.fragment.ExamListFragment$1
- com.example.testMgmtAndroid.fragment.ExamListFragment$10
- com.example.testMgmtAndroid.fragment.ExamListFragment$11
- com.example.testMgmtAndroid.fragment.ExamListFragment$2
- com.example.testMgmtAndroid.fragment.ExamListFragment$3
- com.example.testMgmtAndroid.fragment.ExamListFragment$4
- com.example.testMgmtAndroid.fragment.ExamListFragment$5
- com.example.testMgmtAndroid.fragment.ExamListFragment$6
- com.example.testMgmtAndroid.fragment.ExamListFragment$6$1
- com.example.testMgmtAndroid.fragment.ExamListFragment$6$2
- com.example.testMgmtAndroid.fragment.ExamListFragment$7
- com.example.testMgmtAndroid.fragment.ExamListFragment$8
- com.example.testMgmtAndroid.fragment.ExamListFragment$9
+com/example/testMgmtAndroid/fragment/DocoumentsChild.java
+ com.example.testMgmtAndroid.fragment.DocoumentsChild
+ com.example.testMgmtAndroid.fragment.DocoumentsChild$1
+ com.example.testMgmtAndroid.fragment.DocoumentsChild$2
+ com.example.testMgmtAndroid.fragment.DocoumentsChild$3
+ com.example.testMgmtAndroid.fragment.DocoumentsChild$4
+ com.example.testMgmtAndroid.fragment.DocoumentsChild$5
 com/example/testMgmtAndroid/adapter/ListAdapter1.java
  com.example.testMgmtAndroid.adapter.ListAdapter1
  com.example.testMgmtAndroid.adapter.ListAdapter1$1
@@ -79,18 +65,10 @@ com/example/testMgmtAndroid/adapter/ListAdapter1.java
 com/example/testMgmtAndroid/fragment/MyAccount.java
  com.example.testMgmtAndroid.fragment.MyAccount
  com.example.testMgmtAndroid.fragment.MyAccount$1
-com/example/testMgmtAndroid/activity/MainActivity.java
- com.example.testMgmtAndroid.activity.MainActivity
- com.example.testMgmtAndroid.activity.MainActivity$1
- com.example.testMgmtAndroid.activity.MainActivity$2
 com/example/testMgmtAndroid/activity/SplashActivity.java
  com.example.testMgmtAndroid.activity.SplashActivity
 com/example/testMgmtAndroid/fragment/ExpiredExams.java
  com.example.testMgmtAndroid.fragment.ExpiredExams
-com/example/testMgmtAndroid/adapter/ListAdapter.java
- com.example.testMgmtAndroid.adapter.ListAdapter
- com.example.testMgmtAndroid.adapter.ListAdapter$1
- com.example.testMgmtAndroid.adapter.ListAdapter$2
 com/example/testMgmtAndroid/activity/TestMainPageActivity.java
  com.example.testMgmtAndroid.activity.TestMainPageActivity
  com.example.testMgmtAndroid.activity.TestMainPageActivity$1
@@ -110,29 +88,51 @@ com/example/testMgmtAndroid/activity/TestMainPageActivity.java
 com/example/testMgmtAndroid/fragment/QuestionsFragment.java
  com.example.testMgmtAndroid.fragment.QuestionsFragment
  com.example.testMgmtAndroid.fragment.QuestionsFragment$1
-com/example/testMgmtAndroid/activity/LoginActivity.java
- com.example.testMgmtAndroid.activity.LoginActivity
- com.example.testMgmtAndroid.activity.LoginActivity$1
- com.example.testMgmtAndroid.activity.LoginActivity$MyTextWatcher
+com/example/testMgmtAndroid/helper/CircleTransform.java
+ com.example.testMgmtAndroid.helper.CircleTransform
+com/example/testMgmtAndroid/fragment/MultipleCorrect.java
+ com.example.testMgmtAndroid.fragment.MultipleCorrect
 com/example/testMgmtAndroid/fragment/Examhistory.java
  com.example.testMgmtAndroid.fragment.Examhistory
-com/example/testMgmtAndroid/adapter/DocumentAdapter.java
- com.example.testMgmtAndroid.adapter.DocumentAdapter
- com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder
- com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$1
- com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$2
- com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$2$1
- com.example.testMgmtAndroid.adapter.DocumentAdapter$DocumentViewHolder$2$2
-com/example/testMgmtAndroid/fragment/DocoumentsChild.java
- com.example.testMgmtAndroid.fragment.DocoumentsChild
- com.example.testMgmtAndroid.fragment.DocoumentsChild$1
- com.example.testMgmtAndroid.fragment.DocoumentsChild$2
- com.example.testMgmtAndroid.fragment.DocoumentsChild$3
- com.example.testMgmtAndroid.fragment.DocoumentsChild$4
- com.example.testMgmtAndroid.fragment.DocoumentsChild$5
+com/example/testMgmtAndroid/fragment/ExamListFragment.java
+ com.example.testMgmtAndroid.fragment.ExamListFragment
+ com.example.testMgmtAndroid.fragment.ExamListFragment$1
+ com.example.testMgmtAndroid.fragment.ExamListFragment$10
+ com.example.testMgmtAndroid.fragment.ExamListFragment$11
+ com.example.testMgmtAndroid.fragment.ExamListFragment$2
+ com.example.testMgmtAndroid.fragment.ExamListFragment$3
+ com.example.testMgmtAndroid.fragment.ExamListFragment$4
+ com.example.testMgmtAndroid.fragment.ExamListFragment$5
+ com.example.testMgmtAndroid.fragment.ExamListFragment$6
+ com.example.testMgmtAndroid.fragment.ExamListFragment$6$1
+ com.example.testMgmtAndroid.fragment.ExamListFragment$6$2
+ com.example.testMgmtAndroid.fragment.ExamListFragment$7
+ com.example.testMgmtAndroid.fragment.ExamListFragment$8
+ com.example.testMgmtAndroid.fragment.ExamListFragment$9
+com/example/testMgmtAndroid/fragment/EasyFragment.java
+ com.example.testMgmtAndroid.fragment.EasyFragment
 com/example/testMgmtAndroid/fragment/PhotosChild.java
  com.example.testMgmtAndroid.fragment.PhotosChild
  com.example.testMgmtAndroid.fragment.PhotosChild$1
  com.example.testMgmtAndroid.fragment.PhotosChild$2
  com.example.testMgmtAndroid.fragment.PhotosChild$3
  com.example.testMgmtAndroid.fragment.PhotosChild$4
+com/example/testMgmtAndroid/fragment/MatchThePair.java
+ com.example.testMgmtAndroid.fragment.MatchThePair
+com/example/testMgmtAndroid/adapter/PagerAdapter.java
+ com.example.testMgmtAndroid.adapter.PagerAdapter
+com/example/testMgmtAndroid/fragment/ExamInstructionFragment.java
+ com.example.testMgmtAndroid.fragment.ExamInstructionFragment
+ com.example.testMgmtAndroid.fragment.ExamInstructionFragment$1
+ com.example.testMgmtAndroid.fragment.ExamInstructionFragment$2
+com/example/testMgmtAndroid/helper/OnApiTaskCompleted.java
+ com.example.testMgmtAndroid.helper.OnApiTaskCompleted
+com/example/testMgmtAndroid/fragment/PageDetails.java
+ com.example.testMgmtAndroid.fragment.PageDetails
+ com.example.testMgmtAndroid.fragment.PageDetails$Adapter
+com/example/testMgmtAndroid/helper/FilePath.java
+ com.example.testMgmtAndroid.helper.FilePath
+com/example/testMgmtAndroid/activity/LoginActivity.java
+ com.example.testMgmtAndroid.activity.LoginActivity
+ com.example.testMgmtAndroid.activity.LoginActivity$1
+ com.example.testMgmtAndroid.activity.LoginActivity$MyTextWatcher

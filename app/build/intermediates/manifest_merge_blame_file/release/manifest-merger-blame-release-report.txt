@@ -1,0 +1,361 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.testMgmtAndroid"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:7:5-64
+13-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:7:22-62
+14
+15    <!-- This permission is required to start foreground services in Android P. -->
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:10:5-77
+16-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:10:22-74
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:12:5-81
+17-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:13:5-68
+18-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:13:22-65
+19
+20    <queries>
+20-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+21
+22        <!-- Query Camera Packages -->
+23        <intent>
+23-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+24            <action android:name="android.media.action.IMAGE_CAPTURE" />
+24-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:13:13-73
+24-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:13:21-70
+25        </intent>
+26        <!-- Query Open Document -->
+27        <intent>
+27-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+28            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+28-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:17:13-79
+28-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:17:21-76
+29        </intent>
+30    </queries>
+31
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+32-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:22:5-79
+32-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:22:22-76
+33    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+33-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:26:5-82
+33-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:26:22-79
+34    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+34-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
+34-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
+35
+36    <application
+36-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:9:5-39:19
+37        android:allowBackup="true"
+37-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:10:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+39        android:icon="@mipmap/ic_launcher"
+39-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:11:9-43
+40        android:label="@string/app_name"
+40-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:12:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:13:9-54
+42        android:supportsRtl="true"
+42-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:14:9-35
+43        android:theme="@style/Theme.NikayaSchool"
+43-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:15:9-50
+44        android:usesCleartextTraffic="true" >
+44-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:16:9-44
+45        <activity
+45-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:17:9-19:39
+46            android:name="com.example.testMgmtAndroid.activity.LoginActivity"
+46-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:18:13-51
+47            android:exported="true" />
+47-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:19:13-36
+48        <activity
+48-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:20:9-23:69
+49            android:name="com.example.testMgmtAndroid.activity.TestMainPageActivity"
+49-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:21:13-58
+50            android:exported="true"
+50-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:22:13-36
+51            android:theme="@style/Theme.Design.Light.NoActionBar" />
+51-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:23:13-66
+52        <activity
+52-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:24:9-27:47
+53            android:name="com.example.testMgmtAndroid.activity.MainActivity"
+53-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:25:13-50
+54            android:exported="true"
+54-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:26:13-36
+55            android:theme="@style/AppTheme" />
+55-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:27:13-44
+56        <activity
+56-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:28:9-38:20
+57            android:name="com.example.testMgmtAndroid.activity.SplashActivity"
+57-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:29:13-52
+58            android:exported="true"
+58-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:30:13-36
+59            android:theme="@style/AppTheme" >
+59-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:31:13-44
+60            <intent-filter>
+60-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:32:13-36:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:33:17-69
+61-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:33:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:35:17-77
+63-->C:\Users\Payal20\Documents\SEM7\Internship\testManagement\app\src\main\AndroidManifest.xml:35:27-74
+64            </intent-filter>
+65            />
+66        </activity>
+67
+68        <receiver
+68-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:13:9-15:40
+69            android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver"
+69-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:14:13-91
+70            android:exported="false" />
+70-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:15:13-37
+71
+72        <service
+72-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:17:9-20:61
+73            android:name="com.google.android.gms.cast.framework.media.MediaNotificationService"
+73-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:18:13-96
+74            android:exported="false"
+74-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:19:13-37
+75            android:foregroundServiceType="mediaPlayback" />
+75-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:20:13-58
+76        <service
+76-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:21:9-23:40
+77            android:name="com.google.android.gms.cast.framework.ReconnectionService"
+77-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:22:13-85
+78            android:exported="false" />
+78-->[com.google.android.gms:play-services-cast-framework:20.0.0] C:\Users\Payal20\.gradle\caches\transforms-3\2160ef3c31f71446ee0d39a62cbd549a\transformed\jetified-play-services-cast-framework-20.0.0\AndroidManifest.xml:23:13-37
+79        <service
+79-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:16:9-20:19
+80            android:name="net.gotev.uploadservice.UploadService"
+80-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:17:13-65
+81            android:enabled="true"
+81-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:18:13-35
+82            android:exported="true" >
+82-->[net.gotev:uploadservice:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\c5e30803c627437201b7c4763cf09fe8\transformed\jetified-uploadservice-2.1\AndroidManifest.xml:19:13-36
+83        </service>
+84
+85        <activity
+85-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+86            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+86-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:23:13-81
+87            android:screenOrientation="unspecified"
+87-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:24:13-52
+88            android:theme="@style/Theme.Transparent.ImagePicker" />
+88-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:25:13-65
+89        <activity
+89-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+90            android:name="com.yalantis.ucrop.UCropActivity"
+90-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:27:13-60
+91            android:screenOrientation="portrait"
+91-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:28:13-49
+92            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+92-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:29:13-69
+93
+94        <provider
+94-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+95            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+95-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:32:13-85
+96            android:authorities="com.example.testMgmtAndroid.imagepicker.provider"
+96-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:33:13-72
+97            android:exported="false"
+97-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:34:13-37
+98            android:grantUriPermissions="true" >
+98-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:35:13-47
+99            <meta-data
+99-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:37:17-67
+101                android:resource="@xml/image_picker_provider_paths" />
+101-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Payal20\.gradle\caches\transforms-3\b818e713ff7aa49c973ed767fc92998b\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:38:17-68
+102        </provider>
+103        <!--
+104             FirebaseMessagingService performs security checks at runtime,
+105             but set to not exported to explicitly avoid allowing another app to call it.
+106        -->
+107        <service
+107-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:28:9-35:19
+108            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+108-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:29:13-82
+109            android:directBootAware="true"
+109-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:30:13-43
+110            android:exported="false" >
+110-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:31:13-37
+111            <intent-filter android:priority="-500" >
+111-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:32:13-34:29
+111-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:32:28-51
+112                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+112-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:33:17-78
+112-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:33:25-75
+113            </intent-filter>
+114        </service>
+115        <service
+115-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:36:9-42:19
+116            android:name="com.google.firebase.components.ComponentDiscoveryService"
+116-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:37:13-84
+117            android:directBootAware="true"
+117-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Payal20\.gradle\caches\transforms-3\56254360fdcaeab379416b6e5bf906cf\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+118            android:exported="false" >
+118-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:38:13-37
+119            <meta-data
+119-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:39:13-41:85
+120                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+120-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:40:17-119
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.firebase:firebase-messaging:20.2.4] C:\Users\Payal20\.gradle\caches\transforms-3\833540f424feeff852c1ad77681cf131\transformed\jetified-firebase-messaging-20.2.4\AndroidManifest.xml:41:17-82
+122            <meta-data
+122-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:32:13-34:85
+123                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+123-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:33:17-96
+124                android:value="com.google.firebase.components.ComponentRegistrar" />
+124-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:34:17-82
+125            <meta-data
+125-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Payal20\.gradle\caches\transforms-3\e4899af81517cac00de4630a13353102\transformed\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+126                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+126-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Payal20\.gradle\caches\transforms-3\e4899af81517cac00de4630a13353102\transformed\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Payal20\.gradle\caches\transforms-3\e4899af81517cac00de4630a13353102\transformed\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+128            <meta-data
+128-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\46caf10cdd26063fcd297d0754d7c776\transformed\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
+129                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+129-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\46caf10cdd26063fcd297d0754d7c776\transformed\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
+130                android:value="com.google.firebase.components.ComponentRegistrar" />
+130-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\46caf10cdd26063fcd297d0754d7c776\transformed\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
+131            <meta-data
+131-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\83e0d23ed09516f9e5f1b14175e2f259\transformed\jetified-firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+132                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+132-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\83e0d23ed09516f9e5f1b14175e2f259\transformed\jetified-firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+133                android:value="com.google.firebase.components.ComponentRegistrar" />
+133-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\83e0d23ed09516f9e5f1b14175e2f259\transformed\jetified-firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+134        </service>
+135
+136        <provider
+136-->[com.squareup.picasso:picasso:2.71828] C:\Users\Payal20\.gradle\caches\transforms-3\2c4a6dc3b816d2f49f8e9a11f10955ad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+137            android:name="com.squareup.picasso.PicassoProvider"
+137-->[com.squareup.picasso:picasso:2.71828] C:\Users\Payal20\.gradle\caches\transforms-3\2c4a6dc3b816d2f49f8e9a11f10955ad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+138            android:authorities="com.example.testMgmtAndroid.com.squareup.picasso"
+138-->[com.squareup.picasso:picasso:2.71828] C:\Users\Payal20\.gradle\caches\transforms-3\2c4a6dc3b816d2f49f8e9a11f10955ad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+139            android:exported="false" />
+139-->[com.squareup.picasso:picasso:2.71828] C:\Users\Payal20\.gradle\caches\transforms-3\2c4a6dc3b816d2f49f8e9a11f10955ad\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+140
+141        <receiver
+141-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:37:9-44:20
+142            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+142-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:38:13-78
+143            android:exported="true"
+143-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:39:13-36
+144            android:permission="com.google.android.c2dm.permission.SEND" >
+144-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:40:13-73
+145            <intent-filter>
+145-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:41:13-43:29
+146                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+146-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:42:17-81
+146-->[com.google.firebase:firebase-iid:20.2.3] C:\Users\Payal20\.gradle\caches\transforms-3\d3566df0c0458928328101ed5c7746b3\transformed\jetified-firebase-iid-20.2.3\AndroidManifest.xml:42:25-78
+147            </intent-filter>
+148        </receiver>
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\67ce0057b4d52c6613a81e632dcf71da\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\67ce0057b4d52c6613a81e632dcf71da\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\67ce0057b4d52c6613a81e632dcf71da\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\67ce0057b4d52c6613a81e632dcf71da\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+154
+155        <provider
+155-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Payal20\.gradle\caches\transforms-3\56254360fdcaeab379416b6e5bf906cf\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+156            android:name="com.google.firebase.provider.FirebaseInitProvider"
+156-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Payal20\.gradle\caches\transforms-3\56254360fdcaeab379416b6e5bf906cf\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+157            android:authorities="com.example.testMgmtAndroid.firebaseinitprovider"
+157-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Payal20\.gradle\caches\transforms-3\56254360fdcaeab379416b6e5bf906cf\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+158            android:exported="false"
+158-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Payal20\.gradle\caches\transforms-3\56254360fdcaeab379416b6e5bf906cf\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+159            android:initOrder="100" />
+159-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Payal20\.gradle\caches\transforms-3\56254360fdcaeab379416b6e5bf906cf\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+160
+161        <receiver
+161-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
+162            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+162-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
+163            android:enabled="true"
+163-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
+164            android:exported="false" >
+164-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
+165        </receiver>
+166
+167        <service
+167-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
+168            android:name="com.google.android.gms.measurement.AppMeasurementService"
+168-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
+169            android:enabled="true"
+169-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
+170            android:exported="false" />
+170-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
+171        <service
+171-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
+172            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+172-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
+173            android:enabled="true"
+173-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
+174            android:exported="false"
+174-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
+175            android:permission="android.permission.BIND_JOB_SERVICE" />
+175-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\12e2e8238faaefd0d039bce59d91e855\transformed\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
+176
+177        <meta-data
+177-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\6875ebf3190e051fd5a5685440a72f80\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+178            android:name="com.google.android.gms.version"
+178-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\6875ebf3190e051fd5a5685440a72f80\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+179            android:value="@integer/google_play_services_version" />
+179-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Payal20\.gradle\caches\transforms-3\6875ebf3190e051fd5a5685440a72f80\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+180
+181        <service
+181-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\a55580b9347e6195ccdbf7354c0f67e6\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+182            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+182-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\a55580b9347e6195ccdbf7354c0f67e6\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+183            android:exported="false" >
+183-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\a55580b9347e6195ccdbf7354c0f67e6\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+184            <meta-data
+184-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\a55580b9347e6195ccdbf7354c0f67e6\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+185                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+185-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\a55580b9347e6195ccdbf7354c0f67e6\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+186                android:value="cct" />
+186-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Payal20\.gradle\caches\transforms-3\a55580b9347e6195ccdbf7354c0f67e6\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+187        </service>
+188        <service
+188-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+189            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+189-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+190            android:exported="false"
+190-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+191            android:permission="android.permission.BIND_JOB_SERVICE" >
+191-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+192        </service>
+193
+194        <receiver
+194-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+195            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+195-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+196            android:exported="false" />
+196-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\Payal20\.gradle\caches\transforms-3\e06f653843c2cb56db6443fa00181857\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+197    </application>
+198
+199</manifest>

@@ -1,634 +1,634 @@
 [
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_filter.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-mdpi\\ic_action_filter.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background_normal.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\main_background_normal.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_btncolorandlayout.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\btncolorandlayout.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_greencirclelayout.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\greencirclelayout.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_greencirclelayout.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\greencirclelayout.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_matchthepaircardview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\matchthepaircardview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_finishcardview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\finishcardview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_nikkayaloggo.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-mdpi\\nikkayaloggo.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_cardborder_filled_grey.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\cardborder_filled_grey.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_calenderdilogbox.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\calenderdilogbox.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_circleshape.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\circleshape.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_nikkayaloggo.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xhdpi\\nikkayaloggo.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\anim_exit.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\anim\\exit.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_timer_off_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_timer_off_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_trueorfalse.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\trueorfalse.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_flltersheet.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\flltersheet.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_nikkayaloggo_round.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-hdpi\\nikkayaloggo_round.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile_child.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_profile_child.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exam_list_fragment.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_exam_list_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_circleshapenew.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\circleshapenew.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_cancel_round_corner.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\cancel_round_corner.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_bootamsheet.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\bootamsheet.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_photos_child.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_photos_child.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_nikkayaloggo_round.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\nikkayaloggo_round.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\back.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_datalist.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\border_datalist.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangleshape.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\rectangleshape.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exam.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_exam.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_finishcardview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\finishcardview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sort.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_document_list.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\layout_document_list.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_multiplecheckboxcardview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\multiplecheckboxcardview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_dashboard.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_dashboard.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_nikkayaloggo_foreground.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-hdpi\\nikkayaloggo_foreground.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\anim_right_to_left.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\anim\\right_to_left.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_nikkayaloggo_round.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\nikkayaloggo_round.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_cancel_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_img.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\background_img.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_replay_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_replay_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_contacts_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_contacts_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_orangeflag.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\orangeflag.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_nikkayaloggo.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\nikkayaloggo.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_radiobutton.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_radiobutton.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_match_the_pair.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_match_the_pair.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittextborder.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\edittextborder.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_nikkayaloggo_foreground.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xhdpi\\nikkayaloggo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_green.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_green.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_nikkayaloggo.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-mdpi\\nikkayaloggo.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_parentdetailscardview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\parentdetailscardview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_channel.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_channel.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_insert_photo_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_insert_photo_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_radiobuttoncardbiew.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\radiobuttoncardbiew.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_watch_later_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_watch_later_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_layoutcustom.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\layoutcustom.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_expired_exams.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_expired_exams.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_circleshape.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\circleshape.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_box_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_account_box_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tab_layout.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_tab_layout.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\anim_left_to_right.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\anim\\left_to_right.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fillinthe_blanks.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_fillinthe_blanks.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_action_gray.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\button_action_gray.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_header_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\header_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_dilogbox_layout.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\dilogbox_layout.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_nikkayaloggo_foreground.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\nikkayaloggo_foreground.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_header_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\header_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_nikkayaloggo_round.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\nikkayaloggo_round.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_help_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_help_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_photos_child.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_photos_child.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\main_background.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_nikkayaloggo.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-hdpi\\nikkayaloggo.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_item_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\item_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile_child.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_profile_child.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_spinerborder.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\spinerborder.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_calenderdilogbox.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\calenderdilogbox.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\shape.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\spinner_background.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_nikkayaloggo_foreground.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\nikkayaloggo_foreground.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_filter.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_filter.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_expired_exams.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_expired_exams.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cached_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_cached_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\toolbar_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_cancel_round_corner.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\cancel_round_corner.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\button_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cancel_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_cancel_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cached_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_cached_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbarsecond.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\toolbarsecond.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_examhistory.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_examhistory.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\main_background.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_parentdetailscardview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\parentdetailscardview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_logout_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_nikkayaloggo.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\nikkayaloggo.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_insert_photo_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_insert_photo_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_menu.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_img.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\background_img.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_crop_free_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_crop_free_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_filter.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_filter.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_yesornocardview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\yesornocardview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_notifications_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_notifications_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_nikkayaloggo_background.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\nikkayaloggo_background.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_dashboard.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_dashboard.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_my_account.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_my_account.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_yesorno.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\yesorno.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_nikkayaloggo_foreground.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\nikkayaloggo_foreground.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_match_the_pair.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_match_the_pair.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_orangeflag.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\orangeflag.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_nikkayaloggo_foreground.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-hdpi\\nikkayaloggo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_easy.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_easy.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_dashboard.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-mdpi\\ic_action_dashboard.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_dashboard.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_action_dashboard.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_call_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_test_mainpage.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\activity_test_mainpage.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_nikkayaloggo.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\nikkayaloggo.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_question.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\question.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\menu\\bottom_menu.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_dragandmatch.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\dragandmatch.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_item_main.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\item_main.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_finalcircle.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\finalcircle.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ztoa.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ztoa.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_docouments_child.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_docouments_child.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_nikkayaloggo_round.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxxhdpi\\nikkayaloggo_round.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_examhistory.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_examhistory.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_trueorfalsecardview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\trueorfalsecardview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_settings_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_notifications_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\anim_enter.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\anim\\enter.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_nikkayaloggo_round.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\nikkayaloggo_round.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_circleshapenew.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\circleshapenew.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_help_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_help_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_dashboard.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_dashboard.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_channel_foreground.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_channel_foreground.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_dashboard.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-anydpi\\ic_action_dashboard.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_filter.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-anydpi\\ic_action_filter.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_dashboard.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_dashboard.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_contacts_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_contacts_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_dashboard.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_action_dashboard.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_spinerborder.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\spinerborder.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_visibility_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_visibility_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_cardborder_filled_grey.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\cardborder_filled_grey.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_visibility_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_visibility_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_sort.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_atoz.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\atoz.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_dashboard_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_dashboard_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_green.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_green.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_sort.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sort.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_yesorno.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\yesorno.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\shape.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_filter.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-anydpi\\ic_action_filter.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_my_account.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_my_account.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\anim_enter.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\anim\\enter.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_nikkayaloggo_round.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-hdpi\\nikkayaloggo_round.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_dashboard.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-anydpi\\ic_action_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_multiple_correct.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_multiple_correct.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_main_text.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\button_main_text.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_sort.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_sort.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_nikkayaloggo.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxxhdpi\\nikkayaloggo.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\anim_left_to_right.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\anim\\left_to_right.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_orangecircle.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\orangecircle.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_nikkalogo2.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\nikkalogo2.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_sort_bya_z_alpha_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_sort_bya_z_alpha_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_login_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_login_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_filter.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_action_filter.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_sort_bya_z_alpha_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_sort_bya_z_alpha_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_nikkayaloggo_round.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-anydpi-v26\\nikkayaloggo_round.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_channel_background.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_channel_background.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_orangecircle.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\orangecircle.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_login_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_sort.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_sort.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_insert_drive_file_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_insert_drive_file_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_insert_drive_file_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_insert_drive_file_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exam_instrustion.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_exam_instrustion.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittextborder.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\edittextborder.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background_normal.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\main_background_normal.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ztoa.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ztoa.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_crop_free_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_crop_free_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_matchthepaircardview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\matchthepaircardview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_question.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\question.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_timer_off_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_timer_off_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_bootamsheet.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\bootamsheet.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_flltersheet.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\flltersheet.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_logout_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_logout_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_nikkayaloggo_foreground.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\nikkayaloggo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_dashboard_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_dashboard_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_trueorfalse.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\trueorfalse.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_timer_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_timer_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_sort.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-anydpi\\ic_action_sort.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_multiplecheckboxcardview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\multiplecheckboxcardview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_menudilogboxanswer.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\menudilogboxanswer.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_easy.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_easy.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_circletextview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\circletextview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_radiobutton.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_radiobutton.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_channel.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_channel.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_box_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_account_box_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tab_layout.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_tab_layout.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_filter.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_filter.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangleshape.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\rectangleshape.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exam_instrustion.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_exam_instrustion.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_channel_foreground.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_channel_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_red.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_red.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_filter.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-hdpi\\ic_action_filter.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_multiple_correct.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_multiple_correct.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_nikkayaloggo_round.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-mdpi\\nikkayaloggo_round.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exam_list_fragment.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_exam_list_fragment.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_replay_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_replay_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exam.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\fragment_exam.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_channel.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_channel.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_nikkayaloggo_foreground.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxxhdpi\\nikkayaloggo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_watch_later_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_watch_later_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_finalcircle.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\finalcircle.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_nikkayaloggo_round.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xxhdpi\\nikkayaloggo_round.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_action_sort.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-anydpi\\ic_action_sort.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_circletextview.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\circletextview.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_nikkayaloggo_round.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-mdpi\\nikkayaloggo_round.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_nikkayaloggo_foreground.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-mdpi\\nikkayaloggo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_atoz.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\atoz.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_flag_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_flag_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_radiobuttoncardbiew.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\radiobuttoncardbiew.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_apps_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_apps_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_yesornocardview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\yesornocardview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_nikkayaloggo.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-anydpi-v26\\nikkayaloggo.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_filter.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_action_filter.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_docouments_child.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_docouments_child.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_filter.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_filter.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_dashboard.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-hdpi\\ic_action_dashboard.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_datalist.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\border_datalist.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_sort.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_nikkayaloggo_background.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\nikkayaloggo_background.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_dragandmatch.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\dragandmatch.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_main_text.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\button_main_text.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbarsecond.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\toolbarsecond.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_channel.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_channel.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_nikkalogo2.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\nikkalogo2.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_dilogbox_layout.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\dilogbox_layout.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_layoutcustom.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\layoutcustom.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\anim_right_to_left.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\anim\\right_to_left.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_sort.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_sort.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_spinner_background.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\spinner_background.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_test_mainpage.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\activity_test_mainpage.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_nikkayaloggo.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\nikkayaloggo.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_document_list.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\layout_document_list.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_channel_background.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_channel_background.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_menudilogboxanswer.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\menudilogboxanswer.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\back.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_timer_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_timer_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_apps_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_apps_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_flag_24.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_flag_24.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fillinthe_blanks.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\layout\\fragment_fillinthe_blanks.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\layout_trueorfalsecardview.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\layout\\trueorfalsecardview.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_red.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_red.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_nikkayaloggo_foreground.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-mdpi\\nikkayaloggo_foreground.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_nikkayaloggo_round.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-xhdpi\\nikkayaloggo_round.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_action_gray.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\button_action_gray.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\anim_exit.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\anim\\exit.xml"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_main.xml.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\drawable\\button_main.xml"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_nikkayaloggo.png.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\mipmap-hdpi\\nikkayaloggo.png"
     },
     {
-        "merged": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_nikkayaloggo.png.flat",
-        "source": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\nikkayaloggo.png"
+        "merged": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\merged_res\\debug\\drawable_btncolorandlayout.xml.flat",
+        "source": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\src\\main\\res\\drawable\\btncolorandlayout.xml"
     }
 ]

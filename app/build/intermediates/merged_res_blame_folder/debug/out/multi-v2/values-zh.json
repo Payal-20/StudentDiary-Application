@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jnikh\\Desktop\\testMgmtAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "C:\\Users\\Payal20\\Documents\\SEM7\\Internship\\testManagement\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jnikh\\.gradle\\caches\\transforms-3\\e3bd47d46b6393a9df2acd4472e5fb8a\\transformed\\jetified-ucrop-2.2.6\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\Payal20\\.gradle\\caches\\transforms-3\\e3bd47d46b6393a9df2acd4472e5fb8a\\transformed\\jetified-ucrop-2.2.6\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

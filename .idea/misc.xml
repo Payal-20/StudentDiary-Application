@@ -3,6 +3,48 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable-anydpi/ic_action_dashboard.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/back.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/border_datalist.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/btncolorandlayout.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/button_action_gray.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/button_main.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/button_main_text.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/cancel_round_corner.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/cardborder_filled_grey.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/circleshape.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/circleshapenew.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/edittextborder.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/finalcircle.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/ic_baseline_crop_free_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/ic_baseline_flag_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/main_background_normal.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/nikkayaloggo_background.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/drawable/orangecircle.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/activity_splash.xml" value="0.21" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/activity_test_mainpage.xml" value="0.21" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/app_bar_main.xml" value="0.16" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/bootamsheet.xml" value="0.22" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/calenderdilogbox.xml" value="0.22" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/circletextview.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/dilogbox_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/dragandmatch.xml" value="0.16" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/finishcardview.xml" value="0.18" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/flltersheet.xml" value="0.25" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/fragment_docouments_child.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/fragment_tab_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/layoutcustom.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/toolbar_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/layout/trueorfalsecardview.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/mipmap-anydpi-v26/ic_channel.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1945" />
+        <entry key="..\:/Users/Payal20/Documents/SEM7/Internship/testManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1945" />
         <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/activity_splash.xml" value="0.23731884057971014" />
         <entry key="..\:/Users/jnikh/Desktop/testMgmtAndroid/app/src/main/res/layout/activity_test_mainpage.xml" value="0.23731884057971014" />

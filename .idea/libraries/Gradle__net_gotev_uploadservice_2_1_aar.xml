@@ -4,6 +4,12 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1bcd4e39e066faf1f31d2938fcfbcc18/transformed/jetified-uploadservice-2.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1bcd4e39e066faf1f31d2938fcfbcc18/transformed/jetified-uploadservice-2.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1bcd4e39e066faf1f31d2938fcfbcc18/transformed/jetified-uploadservice-2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5e30803c627437201b7c4763cf09fe8/transformed/jetified-uploadservice-2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5e30803c627437201b7c4763cf09fe8/transformed/jetified-uploadservice-2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5e30803c627437201b7c4763cf09fe8/transformed/jetified-uploadservice-2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5eb3d07d84dfb9301e5c9447211a12d2/transformed/jetified-uploadservice-2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5eb3d07d84dfb9301e5c9447211a12d2/transformed/jetified-uploadservice-2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5eb3d07d84dfb9301e5c9447211a12d2/transformed/jetified-uploadservice-2.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice/2.1/7df15b22b31869dcbffa623341dba37ed8c69191/uploadservice-2.1-javadoc.jar!/" />
